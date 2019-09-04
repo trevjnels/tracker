@@ -1,12 +1,12 @@
 1. If you add the JSON to your package.json and then type:
-##npm install##
+## npm install ##
  in the project directory, you will get the two modules you need to run the tracker ('path' and 'fs')
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 2. if you do not have a package.json, type npm init and do all that jazz
 Instead of adding the modules by hand, type:
-##npm install path fs --save##
+## npm install path fs --save ##
  into your terminal in the file directory
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -34,7 +34,7 @@ This tracker-object.js will be where you keep your stuff updated. To use this pr
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 4. To see how you are doing and if you are over that magic 80%, simply type:
-##node tracker.js##
+## node tracker.js ##
 into your directory and will get your score.
 
 
